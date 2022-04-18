@@ -29,3 +29,12 @@ Number of rotations: 0
 Encrypted message: PKOK
 Decrypted message: JAVA
 ```
+
+# Learning Goals
+1. Learn how to write a C program that follows the given specifications.
+2. Learn how functions improve code by making it modular and task-oriented.
+3. Practice calling functions from different functions.
+4. Practice passing arguments to functions.
+5. Practice returning values from functions.
+6. Develop code using one-dimensional and two-dimensional arrays.
+7. Learn to write code that follows the commenting and the style guidelines. 
